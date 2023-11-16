@@ -11,9 +11,10 @@
     <title>作业</title>
   </head>
   <body>
-    <table width="70%">
+  <h1>我来试试可不可以迈</h1>
+    <table>
       <tr><th>期中成绩表</th></tr>
-
     </table>
+
   </body>
 </html>
